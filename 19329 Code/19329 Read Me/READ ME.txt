@@ -1,0 +1,33 @@
+"Beat Genetics"
+CANDIDATE NUMBER: 19329
+Generative Creativity: G6004
+Task2: Programming project
+University of Sussex
+May 2014
+
+BUILT ON SUPERCOLLIDER 3.6
+MAC OSX VERSION 10.8.4
+
+Beat Genetics 1.0
+
+Welcome, to get started create a new BeatGenetics class.
+Pass in folder paths for the samples to use (use the ones provided or your own).
+Beat Genetics is an interactive genetic algorithm system that tailors beats to user's taste. The fitness function of the genetic algorithm is dependent on the amount of time
+the user listens to a beat. The longer a beat is listened to, the higher its fitness score, and therefore the more likely it will survive and become a candidate in the mating pool.
+
+With a population size of six, it creates six
+randomly generated beat sequences per instrument.
+Instruments Include:
+kick, snare, closed hi hat, ride, tom, clap, percussion 1 & 2.
+
+Notes:
+
+* Focusing on one particular beat, will cause convergence. Having very similar beats is sought after sometimes however to avoid this, make sure to listen longer to varying beats.
+
+-----------------------
+Sample Disclaimer:
+The sample sounds folder includes legal and royalty free samples acquired from Music Radar.
+http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-217833/1
+
+Thanks and enjoy!
+
